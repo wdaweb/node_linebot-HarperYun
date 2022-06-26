@@ -1,0 +1,19 @@
+{
+  "name": "node_linebot-harperyun",
+  "version": "1.0.0",
+  "description": "請學員製作⼀個查詢公開資料的 LINE 機器⼈，並部署到 [heroku](https://www.heroku.com/)  \r 資料來源不限，可使⽤ Google API、[政府開放資料](https://data.gov.tw/)等  \r **請將作業上傳到自己的 GitHub 儲存庫**  \r **並在儲存庫的 README.md 註明機器⼈的好友 ID 、連接的公開資料來源以及使⽤說明**  \r **最後將本檔案下方的作業連結改為自己的 GitHub 儲存庫**  \r **未修改連結視同零分**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdaweb/node_linebot-HarperYun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdaweb/node_linebot-HarperYun/issues"
+  },
+  "homepage": "https://github.com/wdaweb/node_linebot-HarperYun#readme"
+}
